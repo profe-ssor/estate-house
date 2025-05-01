@@ -7,8 +7,8 @@ const Footer = () => {
       <div className='container mx-auto flex flex-col md:flex-row justify-between items-start '>
         <div className='w-full md:w-1/3 mb-8 md:mb-0'>
             <img src={assets.logo_dark} alt="" />
-            <p className='text-gray-400 mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-             quam nostrum in ullam debitis cum impedit fugiat omnis.</p>
+            <p className='text-gray-400 mt-4'>Bringing comfort, trust, and clarity to every home journey.
+            Your peace of mind is our top priority—every step of the way.</p>
         </div>
         <div className='w-full md:w-1/5 md:mb-0' >
             <h3 className='text-white text-lg font-bold mb-'>Company</h3>
